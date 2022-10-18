@@ -1,0 +1,13 @@
+# deps
+node_modules
+
+# build
+dist
+
+# secret
+.env
+
+# misc
+package-lock.json
+yarn-error.log
+yarn-*.log
